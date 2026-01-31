@@ -1,6 +1,5 @@
 # favorite food
 
 apple
-
 pineapple
 
